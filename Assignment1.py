@@ -3,5 +3,5 @@ name2= input('What is your last name ')
 
 print('Hello '+name2 , name1)
 
-fnum = input('What is your favorite number')
+fnum = input('What is your favorite number ')
 print('My favorite number is ' + fnum)
