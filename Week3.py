@@ -45,3 +45,13 @@ print('Hello\\world') # prints with a Backslash
 print('It\'s a beatuifal day!') # prints with a Single Quote
 print('This is \nCIS 2333 class') # prints on a New Line
 print('This is\bCIS 2333 class') # prints with a Backspace
+
+#Operators
+
+#comparison
+a= 21; b=10; c=0
+z=0
+z+=b # gets the value of b and adds it to z which becomes 10
+print(z)
+z*=b # gets the value of b and multiplies it to z which becomes 100
+print(z)
