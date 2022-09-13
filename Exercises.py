@@ -17,6 +17,11 @@
 #area = 6 * edge**2
 #print(area)
 
+#Q1
+D = int(input('Enter how many days are in a month '))
+S = D *86400
+print('There are '+ str(S) + ' seconds in a day')
+
 #Q2
 R = float(input('Enter a radius length '))
 A = 4*3.14*R**2
