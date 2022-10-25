@@ -10,6 +10,6 @@ for x in fruits:
     print('I like ' + x + ' they are one of my favorite fruits')
 print("I like the sweet flavor of the fruits.")
 print('I also like the tangy taste.')
-print('I like the resfreshing flavor of fruits')
+print('I like the refreshing flavor of fruits')
 print('I really love fruits')
 
