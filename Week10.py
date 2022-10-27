@@ -34,3 +34,19 @@ print(A.difference(B))
 print(A.symmetric_difference(B))
 
 print(A ^ B)
+
+
+#dict
+
+data =  {'b':20, 'a':35}
+data['b'] = -20
+print(data)
+
+data['c'] = 40
+print(data)
+
+data.pop('b')
+print(data)
+
+x= data.keys()
+print(sorted(x))
